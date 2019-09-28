@@ -1,0 +1,2 @@
+# CSCI567-in-USC
+Took CSCI567in 2019 fall
